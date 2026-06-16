@@ -11,3 +11,5 @@ public class SpringbootBeginnerApplication {
 	}
 
 }
+// mvn spring-boot:run      --------> to run the application
+// http://localhost:8080/hello  --------> to access the endpoint

@@ -1,6 +1,41 @@
 h1{
-    color: #da1313;
-    font-family: 'Arial', sans-serif;
+    color : green;
     text-align: center;
-    margin-top: 20px;
+}
+#abcd{
+    color: red;
+}
+.heading{
+    color: green;
+}
+ h1{
+
+ }
+ #heading-2{
+    color: organge;
+ }
+ #para{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+ }
+
+#navbar{
+    border : 3px solid black;
+    padding: 15px;
+    background-color: brown;
+    text-align: center;
+}
+#navbar a{
+    padding: 15px;
+    text-decoration: none;
+    color: aquamarine;
+}
+#navbar a:hover{
+    background-color: rgb(197,84,84);
+    color: white;
+}
+body{
+    margin: 0px;
 }
